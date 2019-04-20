@@ -12,6 +12,6 @@ japanese_emoticon=YAML.get_file('some.yml')
 end
 
 def get_english_meaning
-  english_meaning=YAML.get_file(some.yml)
+  english_meaning=YAML.get_file('some.yml')
   # code goes here
 end
